@@ -9,7 +9,7 @@ Hello There
 
 - 🌱 I’m currently learning **C++, Game dev, Animation, 3D Model**
 
-- ⚡ Fun fact **No, the legend is wrong**
+- ⚡ Fun fact **The legend is wrong**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
