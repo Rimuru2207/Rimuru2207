@@ -1,5 +1,4 @@
-# dippp.png
-Hello There
+
 <h1 align="center">Hi 👋, I'm Nadhif Ahnaf Fauzan</h1>
 <h3 align="center">Newbie Programmer, learning to become game dev</h3>
 
