@@ -24,10 +24,11 @@ Hello There
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimuru2207&show_icons=true&locale=en" alt="rimuru2207" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimuru2207&" alt="rimuru2207" /></p>
-###
+
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Rimuru2207/Rimuru2207/blob/output/snake.svg)
+
 
 ###
