@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++, Game dev, Animation, 3D Model**
 
-- ⚡ Fun fact **The legend is wrong**
+- ⚡ Fun fact **Kamu ga bisa nafas pas kamu didalam air**
 
 
 </p>
